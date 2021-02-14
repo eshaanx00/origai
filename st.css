@@ -1,0 +1,22 @@
+.header{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    background-color: burlywood;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: center;
+}
+body{
+    background-color: #214778;
+}
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
